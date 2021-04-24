@@ -1,8 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/73rnwg6yrhxk9e6s?svg=true)](https://ci.appveyor.com/project/Evgeniy-27/ra-components)
 
 
-
-
 store-func
 ===
 
