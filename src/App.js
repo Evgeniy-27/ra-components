@@ -2,9 +2,7 @@ import './App.css';
 import ItemFunc from './components/ShopItemFunc';
 import ItemClass from './components/ShopItemClass';
 
-
-function App() {
-  const item = {
+const item = {
     brand: 'Tiger of Sweden',
     title: 'Leonard coat',
     description: 'Minimalistic coat in cotton-blend',
@@ -13,6 +11,8 @@ function App() {
     currency: '£'
   }
 
+function App() {
+  
   return (
     <div>
       <div className="container">
